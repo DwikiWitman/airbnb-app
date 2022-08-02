@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    height: 70px;
+    display: flex;
+    padding: 20px 36px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.nav--logo {
+    max-width: 100px;
+}
+
+.card--photogrid {
+    align-self: center;
+    border: none;
+    height: 100px;
+}
+
+.image--photogrid {
+    align-self: center;
+    height: 400px;
+}
